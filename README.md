@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leonardoman9
-- 👀 I’m interested in Software Engineering, automation and Music engineering.
+- 👀 I’m interested in Computer Engineering, Automation and Music engineering.
 
 <!---
 leonardoman9/leonardoman9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
